@@ -17,6 +17,7 @@ Your task backlog organized by priority.
 ## P2 - Normal (max 10)
 
 <!-- Standard priority items -->
+- [ ] **Appeler le syndic** — Contact fourni par les collègues de Sandrine ^task-20260927-001
 
 ## P3 - Backlog
 
